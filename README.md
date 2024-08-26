@@ -1,3 +1,5 @@
+![alt text](https://github.com/KauannHeenrique/KauannHeenrique/blob/main/senai-logo-3.png)
+
 ## Olá 👋
 
 <!-- 
