@@ -11,7 +11,7 @@ Aqui estão alguns fatos sobre mim:
 - 👯 Estou procurando colaborar em projetos de desenvolvimento de software, especialmente aqueles que envolvam novas tecnologias ou conceitos inovadores. 
 - 🤔 Estou procurando ajuda com aprendizados variados na área de desenvolvimento, desde novas linguagens e frameworks até melhores práticas de design e arquitetura de sistemas. 
 - 💬 Pergunte-me sobre minhas experiências com jogos ou recomendações de livros variados. 
-- 📫 Como me encontrar: ... 
+- 📫 Como me encontrar: [LinkedIn](https://br.linkedin.com/in/kauann-quadros).
 - 😄 Pronomes: he/him 
 - ⚡ Curiosidade: Além de desenvolvimento e tecnologia, sou apaixonado por montar e programar pequenos projetos de automação. 
   
