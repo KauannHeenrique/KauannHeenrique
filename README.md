@@ -15,6 +15,7 @@ Aqui estão alguns fatos sobre mim:
 - 😄 Pronomes: he/him 
 - ⚡ Curiosidade: Além de desenvolvimento e tecnologia, sou apaixonado por montar e programar pequenos projetos de automação. 
   
+Você pode baixar meu currículo em PDF [aqui](Curriculo Kauann 2024.pdf).
 
 
 
