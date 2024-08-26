@@ -1,8 +1,7 @@
 ![alt text](https://github.com/KauannHeenrique/KauannHeenrique/blob/main/senai-logo-3.png)
 
 ## Olá 👋
-
-<!-- 
+ 
 **KauannHeenrique/KauannHeenrique** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub. 
 
 Aqui estão alguns fatos sobre mim: 
@@ -15,8 +14,7 @@ Aqui estão alguns fatos sobre mim:
 - 📫 Como me encontrar: ... 
 - 😄 Pronomes: he/him 
 - ⚡ Curiosidade: Além de desenvolvimento e tecnologia, sou apaixonado por montar e programar pequenos projetos de automação. 
--->
-
+  
 
 
 
