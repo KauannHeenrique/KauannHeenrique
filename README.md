@@ -17,6 +17,7 @@ Aqui estão alguns fatos sobre mim:
   
 Você pode baixar meu currículo em PDF [aqui](./Curriculo%20Kauann%202024.pdf).
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauannHeenrique&show_icons=true&theme=dark)
 
 
